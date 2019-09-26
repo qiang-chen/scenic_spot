@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "van-steps": "path/to/vant-weapp/dist/steps/index"
+    }
+}
